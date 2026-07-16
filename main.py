@@ -1,9 +1,7 @@
 from InquirerPy import inquirer
 from pathlib import Path
 from exiftool import ExifToolHelper
-import pandas as pd
 from geopy.geocoders import Nominatim
-import time
 import os
 import ast
 
