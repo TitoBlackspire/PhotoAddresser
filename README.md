@@ -30,7 +30,7 @@ python main.py
 
 ## Testing
 
-You can find images to test with using `https://github.com/ianare/exif-samples` repo.
+You can find images to test with using [ianare/exif-samples](https://github.com/ianare/exif-samples) repo.
 
 ## 📄 License
 Distributed under the MIT License. See `LICENSE` for more information.
